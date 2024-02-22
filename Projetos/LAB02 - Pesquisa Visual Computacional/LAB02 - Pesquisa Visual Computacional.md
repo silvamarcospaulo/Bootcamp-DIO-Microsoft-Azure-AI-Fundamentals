@@ -10,6 +10,5 @@ No portal [Azure AI  |  Vision Studio](https://portal.vision.cognitive.azure.com
 
 As imagens utilizadas foram:
 - Imagem 1: [Placa Indicativa TripAdvisor](https://www.tripadvisor.com.br/LocationPhotoDirectLink-g303324-d3181438-i199326491-Museu_Pedro_Ludovico_Teixeira-Goiania_State_of_Goias.html)
-- Imagem 2: [Goiânia Receberá Novas Placas de Rua](https://ohoje.com/noticia/cidades/n/127682/t/goiania-recebera-novas-placas-de-rua/)
 
-Ambas com direitos Creative Communs e acessadas no dia 22 de fevereiro de 2024.
+Acesso em 22 de fevereiro de 2024.
