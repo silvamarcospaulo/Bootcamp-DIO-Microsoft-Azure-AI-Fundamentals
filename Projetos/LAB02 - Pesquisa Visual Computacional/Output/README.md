@@ -1,3 +1,8 @@
+O resultado obtido foi a leitura da imagem e identificação de texto corretamente:
+
+<img src="https://github.com/silvamarcospaulo/Bootcamp-DIO-Microsoft-Azure-AI-Fundamentals/blob/main/Projetos/LAB02%20-%20Pesquisa%20Visual%20Computacional/Output/Resultado.png" width="1000"/>
+
+E o JSON gerado foi:
 ```json
   {
     "lines": [
