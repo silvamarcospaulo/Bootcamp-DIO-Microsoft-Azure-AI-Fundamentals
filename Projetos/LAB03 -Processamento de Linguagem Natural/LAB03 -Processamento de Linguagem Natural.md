@@ -1,6 +1,7 @@
-# Laboratório 03 - Pesquisa Visual Computacional
+# Laboratório 03 - Processamento de Linguagem Natural
 
 ## Objetivos
+
 Aprender na prática sobre o reconhecimento de fala e a sintetização de voz utilizando ferramentas como Fala de IA do Azure
 
 ## Materiáis Utilizado
